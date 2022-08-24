@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishnu15018
 - 👀 I’m interested in ... data science field
 - 🌱 I’m currently learning ... Machine learning,Computer networks,Operating systems,Hadoop Management ,Software Engineer,Soft Computing 
-- 💞️ I’m looking to collaborate on ... data science projects
+- 💞️ I’m looking to collaborate on ... data science projects,Machine learning projects 
 - 📫 How to reach me ... Email: vishnu15018@gmail.com
 
 <!---
