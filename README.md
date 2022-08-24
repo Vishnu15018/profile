@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu15018
 - 👀 I’m interested in ... data science field
-- 🌱 I’m currently learning ... data visualisation and analysis,algorithm design , dbms,principels of programming language,intro to AI
+- 🌱 I’m currently learning ... Machine learning,Computer networks,Operating systems,Hadoop Management ,Software Engineer,Soft Computing 
 - 💞️ I’m looking to collaborate on ... data science projects
 - 📫 How to reach me ... Email: vishnu15018@gmail.com
 
